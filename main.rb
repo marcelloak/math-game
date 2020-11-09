@@ -10,3 +10,10 @@ puts player1.name
 puts player1.lives
 puts player2.name
 puts player2.lives
+
+
+q1 = Question.new(20)
+
+puts q1.num1
+puts q1.num2
+puts q1.sum
